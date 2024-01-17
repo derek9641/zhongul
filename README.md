@@ -1,33 +1,105 @@
 # 漢語諺文拼音方案
 &#x200B;
+Dipthongs:
 
-|Consonants|Hangul|Vowels|Hangul|Diphthongs|Hangul|||
-|:-|:-|:-|:-|:-|:-|:-|:-|
-|b-|ㅂ|\-i|이|ya/-ia|야|||
-|p-|ㅍ|\-u|우|ye/-ie|예|||
-|m-|ㅁ|\-ü|웆|yao/-iao|얗|||
-|f-|ㄲ(ㆄ\*)|\-a|아|you/-iu|옇|||
-|d-|ㄷ|\-o|어|yan/-ian|옌|||
-|t-|ㅌ|\-e|에|yin/-in|인|||
-|n-|ㄴ|\-i (vowel of e.g.  zhi)|으|yang/-iang|양|||
-|l-|ㄹ|\-ai|앋|ying/-ing|잉|||
-|g-|ㄱ|\-ei|엗|wong|웡|Endings|Hangul|
-|k-|ㅋ|\-au|앟|\-ong|엉|\-i|ㄷ|
-|h-|ㅎ|\-ou|엏|wa/-ua|와|u|ㅎ|
-|j-|ㅈ|\-an|안|wo/-uo|워|ü|웆|
-|q-|ㅊ|\-en|엔|wai/-uai|왇|ün|욵|
-|x-|ㅅ|\-ang|앙|wei/ui|웯|n|ㄴ|
-|zh-|ㅈ|\-eng|엥|wan/-uan|완|ng|ㅇ|
-|ch-|ㅊ|\-er|엘|wun/-un|운|Tones\*|Diacritics|
-|sh-|ㅅ|||wang/-uang|왕|1|N/A|
-|r-|ㅃ(ᄙ\*)|||yong/-iong|영|2|ˊ|
-|z-|ㅉ|||yue/üe|웾|3|ˇ|
-|c-|ㄸ(ㅊㅊ\*)|||yuan/-üan)|웭|4|ˋ|
-|s-|ㅆ|||yun/-ün)|욵|5|・|
+* ai -> 애 (many languages even korean pronunciation of hanja do this)
+* E.g. French: mais - mɛ, Korean: 大(dai in middle chinese) -> 대 - dɛ
+* ei -> 에
+* au -> 어 (idea from French and English au)
+* ou -> 오
 
-\*Write this instead when handwriting
+&#x200B;
 
-\*Tones should be option and written on top of every block
+|Consonants||Vowels||
+|:-|:-|:-|:-|
+|b-|ㅂ|\-i|이/i/|
+|p-|ㅍ|\-u|우/u/|
+|m-|ㅁ|\-ü|유/y/|
+|f-|ㄲ(ㆄ\*)|\-a|아/a/|
+|d-|ㄷ|\-o|어/o/|
+|t-|ㅌ|\-e|엘/ə/|
+|n-|ㄴ|\-i|으/ɹ̩/|
+|l-|ㄹ|Diphthongs||
+|g-|ㄱ|\-ai|애/ai/|
+|k-|ㅋ|\-ei|에/ei/|
+|h-|ㅎ|\-ao|어/au/|
+|j-|ㅈ|\-ou|오/ou/|
+|q-|ㅊ|\-üe|위/ye/|
+|x-|ㅅ|||
+|zh-|ㅉ|||
+|ch-|ㄸ(ﾺﾺ\*)|||
+|sh-|ㅆ|||
+|r-|ㅃ(ᄙ\*)|||
+|z-|ㅈ|||
+|c-|ㅊ|||
+|s-|ㅅ|||
+
+&#x200B;
+
+|Final Consonant Combinations||
+|:-|:-|
+|\-an|안/an/|
+|\-en|엔/en/|
+|\-in|인/in/|
+|\-un|운/wən/|
+|\-ang|앙/aŋ/|
+|\-eng|엥/ə/|
+|\-ing|잉/iŋ/|
+|\-ong|엉/oŋ/|
+|\-er|엘/ɚ/|
+
+&#x200B;
+
+|/j/ or /w/ starters||
+|:-|:-|
+|ya/-ia|야|
+|ye/-ie|예|
+|yao/-iao|여/jau/|
+|you/-iu|요|
+|yue/-üe|위/ye/|
+|yang/-iang|양|
+|yong/-iong|영|
+|yuan/-üan|윈/yen/|
+|yun/-ün|윤|
+|yan/-ian|옌/jen/|
+|yin/-in|인/jin/|
+|wong|웡|
+|wa/-ua|와|
+|wo/-uo|워|
+|wai/-uai|왜|
+|wei/ui|웨|
+|wan/-uan|완|
+|wun/-un|운|
+|wen/-en|웬/wən/|
+|wang/-uang|왕|
+
+&#x200B;
+
+|Tones||Alternative when typing|
+|:-|:-|:-|
+|1|N/A|N/A|
+|2| ・under|;|
+|3|· on the left|·|
+|4|: on the left|:|
+|5|・on top|\`|
+
+&#x200B;
+
+|Punctuations|Horisontally without tones|Horisontally with tones & Vertically|
+|:-|:-|:-|
+|。|.|。|
+|？|?|？|
+|！|!|！|
+|，|,|，|
+|、|,|、|
+|；|;|；|
+|：|:|：|
+|“ ”  ‘ ’|""  ''|V:「」, H:﹁﹂|
+|（）|()|（）|
+
+\*This instead while handwriting (욵,웆 is used while typing due to consistency)
+
+\*Spacing shall follow the spacing rules in pinyin
 
 Example:
 
@@ -35,6 +107,13 @@ Example:
 
 rén-rén shēng-ér zì-yóu, zài zūn-yán-hé quán-lì-shàng yī-lǜ píng-děng.  tā-men fù-yǒu lǐ-xìng-hé liáng-xīn, bìng-yīng-yǐ xiōng-dì guān-xì-de jīng-shén xiàng-duì-dài. rén-rén yǒu zī-gé xiǎng-shòu běn xuān-yán suǒ-zǎi-de yī-qiē quán-lì-hé zì-yóu, bù-fèn zhǒng-zú, fū-sè, xìng-bié, yǔ-yán, zōng-jiāo, zhèng-zhì-huò qí-tā jiàn-jiě, guó-jí-huò shè-huì chū-shēn, cái-chǎn, chū-shēng-huò qí-tā shēn-fèn-děng rèn-hé qū-bié.
 
-뻰뻰 셍엘 쯔옇, 짣 쭌옌헤 췑리상 이룾 핑뎅. 타멘 꾸옇 리싱헤 량신, 빙잉이 셩디 관시데 징센 샹뒏닫. 뻰뻰 옇 지게 샹섷 벤 쉕옌 숴짣데 이쳬 췑리헤 찌옇, 부껜 정쭈, 꾸세, 싱볘, 웆옌, 쩡쟣, 젱지훠 치타 졘제, 궈지훠 세훧  추센, 딷찬, 추셍훠 치타 센껜뎅 뻰헤 춪볘.
+No tone:
+
+뻰뻰 쎙엘 즈요, 재 준옌헤 췬리상 이류 핑뎅. 타멘 꾸요 리싱헤 량신, 빙잉이 셩디 관시데 징쎈 샹뒈대. 뻰뻰 요 지게 샹쏘 벤 쉰옌 숴재데 이쳬 췬리헤 즈요, 부껜 쩡주, 꾸세, 싱볘, 유옌, 정져, 쩽쯔훠 치타 졘제, 궈지훠 쎄훼  뚜쎈, 채딴, 뚜쎙훠 치타 쎈껜뎅 뻰헤 츄볘.
+
+With tones:
+
+;뻰;뻰 쎙;엘 :즈;요， :재 준;옌;헤 ;췬:리:쌍 ;이:류 ;핑·뎅。 타\`멘 :꾸·요 ·리:싱;헤 ;량신， :빙잉·이 셩:디 관\`시\`데 징;쎈 샹:뒈:대。 ;뻰;뻰 ·요 즈;게 ·샹:쏘 ·벤 쉰;옌 ·숴·재\`데 이:쳬 ;췬:리;헤 ·즈;요， :부껜 ·쩡;주、 꾸:세、 :싱;볘、 ·유;옌、 정:져、 :쩽:쯔:훠 ;치타 :졘·졔、 ;궈;지:훠 :쎄:훼  뚜쎈、 ;채·딴、 뚜쎙:훠 ;치타 쎈:껜·뎅 :뻰;헤 츄;볘。
+<img width="1245" alt="Screenshot 2024-01-17 at 1 50 52 PM" src="https://github.com/derek9641/zhongul/assets/55919922/ff9c1410-945c-40c0-9e75-2c2a760cb005">
 
 &#x200B;
