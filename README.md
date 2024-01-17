@@ -1,4 +1,4 @@
-# 漢語諺文拼音方案
+<img width="1322" alt="Screenshot 2024-01-17 at 2 09 10 PM" src="https://github.com/derek9641/zhongul/assets/55919922/60a73a4f-42b0-48bb-a345-d9d769094d7d"># 漢語諺文拼音方案
 &#x200B;
 Dipthongs:
 
@@ -114,6 +114,7 @@ No tone:
 With tones:
 
 ;뻰;뻰 쎙;엘 :즈;요， :재 준;옌;헤 ;췬:리:쌍 ;이:류 ;핑·뎅。 타\`멘 :꾸·요 ·리:싱;헤 ;량신， :빙잉·이 셩:디 관\`시\`데 징;쎈 샹:뒈:대。 ;뻰;뻰 ·요 즈;게 ·샹:쏘 ·벤 쉰;옌 ·숴·재\`데 이:쳬 ;췬:리;헤 ·즈;요， :부껜 ·쩡;주、 꾸:세、 :싱;볘、 ·유;옌、 정:져、 :쩽:쯔:훠 ;치타 :졘·졔、 ;궈;지:훠 :쎄:훼  뚜쎈、 ;채·딴、 뚜쎙:훠 ;치타 쎈:껜·뎅 :뻰;헤 츄;볘。
-<img width="1245" alt="Screenshot 2024-01-17 at 1 50 52 PM" src="https://github.com/derek9641/zhongul/assets/55919922/ff9c1410-945c-40c0-9e75-2c2a760cb005">
+
+<img width="1322" alt="Screenshot 2024-01-17 at 2 09 10 PM" src="https://github.com/derek9641/zhongul/assets/55919922/1eb1ce9b-1c43-40d0-98e6-d947c02ea8a4">
 
 &#x200B;
